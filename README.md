@@ -70,6 +70,7 @@ Developed by: JOANN ELIZABETH SAMUEL  RegisterNumber: 24900609
 **RTL Schematic**
 
 **HALF ADDER**
+
 ![Screenshot 2025-01-04 091209](https://github.com/user-attachments/assets/e6b63289-bad6-4eed-b5ae-2ab391c5f033)
 
 **HALF SUBTRACTOR**
