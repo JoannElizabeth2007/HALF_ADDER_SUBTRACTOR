@@ -45,6 +45,13 @@ Figure -02 HALF Subtractor
 
 5.	For different input combinations generate the timing diagram.
 
+**Truth Table**
+
+![image](https://github.com/user-attachments/assets/a13cccc7-9794-4aaa-8849-e335bf8016e5)
+
+![image](https://github.com/user-attachments/assets/265add70-f582-44c3-8e37-9d7cb6a4d154)
+
+
 
 **Program:**
 
